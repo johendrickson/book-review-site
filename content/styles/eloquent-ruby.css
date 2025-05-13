@@ -1,0 +1,9 @@
+.review {
+  background-color: lightgray;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.review p {
+  line-height: 150%;
+}
